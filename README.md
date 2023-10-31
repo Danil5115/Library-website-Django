@@ -1,6 +1,6 @@
 # Library Website Project
 
-Welcome to the Library Website project! This is a comprehensive web application that provides a rich set of features for managing books and authors, allowing users to explore and borrow books from the library. Below, we'll outline the project's functionality and its various components.
+Welcome to the Library Website project! This is a comprehensive web application that provides a rich set of features for managing books and authors, allowing users to explore and borrow books from the library. Below, I'll outline the project's functionality and its various components.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,7 +11,9 @@ Welcome to the Library Website project! This is a comprehensive web application 
 
 ## Project Overview
 
-This project represents a library website that serves as an efficient platform for managing books, authors, and book borrowing. It is a great example of a backend development pet project that showcases your skills as a developer.
+
+This project represents a library website that serves as an efficient platform for managing books, authors, and book borrowing. This project has great functionality, where there are books, their physical copies, with all the accompanying information, including about authors, genres, etc. You can take copies of these books/authors, create, edit and delete them. There is also functionality with a separation of profiles for ordinary participants, administrators and librarians (who have great functionality for working with books). 
+There is also the possibility of testing using unittest
 
 ## Key Features
 
@@ -49,3 +51,4 @@ The project includes various views for displaying books, authors, and book insta
 ### Forms
 The RenewBookForm is used to renew book due dates.
 
+![Library png](.idea/library.png)
