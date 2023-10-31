@@ -36,12 +36,12 @@ This project represents a library website that serves as an efficient platform f
 - Librarians can manage books and authors through the Django admin interface.
 
 
-### Models
-# Book
+# Models
+### Book
 - Represents a book with fields for title, author, summary, ISBN, genres, and language.
-# Author
+### Author
 - Represents an author with fields for first name, last name, date of birth, and date of death.
-# BookInstance
+### BookInstance
 - Represents a specific copy of a book with details such as imprint, due date, borrower, and status.
 ### Views
 The project includes various views for displaying books, authors, and book instances. It also features views for book borrowing and management.
